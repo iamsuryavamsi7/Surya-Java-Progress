@@ -44,3 +44,8 @@
     - Static Variables ( Completed )
     - Static Methods ( Completed )
     - Static Block ( Completed )
+    - Encapsulation ( Completed )
+    - Getters and Setters in Java ( Completed )
+    - This Keyword in Java ( Completed )
+    - Default vs Parameterized COnstructor in Java ( Completed )
+    
