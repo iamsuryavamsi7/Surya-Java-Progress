@@ -41,3 +41,6 @@
     - Arrays of objects ( Completed )
     - What is String in Java ( Completed )
     - StringBuffer ( Completed )
+    - Static Variables ( Completed )
+    - Static Methods ( Completed )
+    - Static Block ( Completed )
