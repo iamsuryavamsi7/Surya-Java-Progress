@@ -5,3 +5,8 @@
 - Introduction To Java ( Completed )
 - Installing the JDK ( Completed )
 - How Java Works JDK ( Completed )
+- Variables ( Completed )
+- Data Types ( Completed )
+- Literal ( Completed )
+- Type Conversion ( Completed )
+- Arthimetic Operators ( Completed )
