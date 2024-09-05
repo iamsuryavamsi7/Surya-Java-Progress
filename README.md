@@ -83,3 +83,7 @@
     - Exceptions ( Completed )
     - Exception Handling with try catch ( Completed )
     - Multiple try catch for Exception Handling ( Completed )
+    - Exception Hierarchy in Java ( Completed )
+    - Throw Keyword in Java ( Completed )
+    - Custom Exception in Java ( Completed )
+    - Throws Exception in Java ( Completed )
