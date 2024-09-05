@@ -97,3 +97,10 @@
     - ArrayList ( Completed )
     - Set HashSet TreeSet ( Completed )
     - Map ( Completed )
+    - ForEach ( Completed )
+    - Map Filter Reduce Sorted in Java ( Completed )
+
+
+## Concepts of Data Structures and Algorithms ( DSA )
+
+- ### 06-09-2024 | 00:00 ( Introduction to DSA )
