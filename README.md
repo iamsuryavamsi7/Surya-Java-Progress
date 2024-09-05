@@ -1,6 +1,8 @@
-# Progress Started on Sep 4th
+# Progress Started on Sep 4th | 2024
 
-- ### 04-09-2024 | 17:26
+## Concepts on Core Java ( 2024 )
+
+- ### 04-09-2024 | 17:26 ( Introduction to Java )
 
     - Introduction To Java ( Completed )
     - Installing the JDK ( Completed )
@@ -14,7 +16,7 @@
 
 ---
 
-- ### 04-09-2024 | 23:55
+- ### 04-09-2024 | 23:55 ( Basic Needed Java )
 
     - Logical Operators ( Completed )
     - If Else ( Completed )
@@ -64,7 +66,7 @@
 
 ---
 
-- ### 05-09-2024 | 15:15 
+- ### 05-09-2024 | 15:15 ( Advance Java )
 
     - Abstract Keyword ( Completed )
     - Inner Class ( Completed )
