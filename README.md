@@ -95,3 +95,5 @@
     - Multi Threading ( Completed )
     - collection API ( Completed )
     - ArrayList ( Completed )
+    - Set HashSet TreeSet ( Completed )
+    - Map ( Completed )
