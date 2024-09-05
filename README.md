@@ -61,3 +61,15 @@
     - Object toString Method ( Completed )
     - Upcasting and Downcasting ( Completed )
     - Wrapper ( Completed )
+
+---
+
+- ### 05-09-2024 | 15:15 
+
+    - Abstract Keyword ( Completed )
+    - Inner Class ( Completed )
+    - Anonymous Inner Class ( Completed )
+    - Anonymous and Abstract Inner Class ( Completed )
+    - Interface ( Completed )
+    - Need of Interface ( Completed )
+    - More on Interface ( Completed )
