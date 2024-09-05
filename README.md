@@ -89,3 +89,8 @@
     - Throw Keyword in Java ( Completed )
     - Custom Exception in Java ( Completed )
     - Throws Exception in Java ( Completed )
+    - Scanner and BufferReader ( Completed )
+    - Try with Finally and Catch ( Completed )
+    - Threads ( Completed )
+    - Multi Threading ( Completed )
+    - collection API ( Completed )
