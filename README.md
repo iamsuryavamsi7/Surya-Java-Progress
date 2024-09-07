@@ -104,4 +104,8 @@
 
 ## Concepts on Data Structures and Algorithms ( DSA )
 
-- ### 06-09-2024 | 00:00 ( Introduction to DSA )
+- ### 07-09-2024 | 20:00 ( Introduction to DSA )
+
+    - What are Data Structures ( Completed )
+    - Abstract Data Types ( Completed )
+    - Array Data Structure ( Completed )
