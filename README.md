@@ -109,3 +109,8 @@
     - What are Data Structures ( Completed )
     - Abstract Data Types ( Completed )
     - Array Data Structure ( Completed )
+    - Linear Search ( Completed )
+    - Binary Search ( Completed )
+    - B O Notation, Time Complexity ( Completed )
+    - Linear Search and Binary Search Handson ( Completed )
+    - Bubble Sort Theory ( Completed )
