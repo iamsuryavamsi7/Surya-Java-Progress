@@ -114,3 +114,6 @@
     - B O Notation, Time Complexity ( Completed )
     - Linear Search and Binary Search Handson ( Completed )
     - Bubble Sort Theory ( Completed )
+    - Bubble Sort Hands-On ( Completed )
+    - Introduction to LinkedList ( Completed )
+    - Implementation of LinkedList ( Completed )
