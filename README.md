@@ -101,6 +101,19 @@
     - Map Filter Reduce Sorted in Java ( Completed )
 ---
 
+## Concepts on Data Structures ( Java )
+
+- ### 09-09-2024 | 20:00 ( Introduction to Data Structures )
+
+    - Array ( Completed )
+    - 2D Array ( Completed )
+    - Lists ( Completed )
+    - LinkedList ( Completed )
+    - Queues ( Completed )
+    - Stack ( Completed )
+
+---
+
 
 ## Concepts on Data Structures and Algorithms ( DSA )
 
