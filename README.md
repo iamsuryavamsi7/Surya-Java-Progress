@@ -97,6 +97,7 @@
     - ArrayList ( Completed )
     - Set HashSet TreeSet ( Completed )
     - Map ( Completed )
+    - Comparator and Comparable ( Completed )
     - ForEach ( Completed )
     - Map Filter Reduce Sorted in Java ( Completed )
 ---
